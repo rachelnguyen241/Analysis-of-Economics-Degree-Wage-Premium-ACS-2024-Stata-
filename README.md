@@ -13,4 +13,4 @@ Conducted econometric analysis of wage returns to an Economics degree using OLS 
 * Verified the **Frisch–Waugh–Lovell theorem** by residualizing both log wages and Economics-degree status on age and age-squared and demonstrating that the residualized regression coefficient (**0.333**) exactly matched the coefficient obtained from the corresponding multivariate regression. 
 * Applied omitted-variable-bias analysis to assess causal interpretation, showing that unobserved factors such as ability, ambition, and family background likely generate **upward bias** in estimated returns to Economics degrees through positive correlations with both degree choice and earnings. 
 * Evaluated the limitations of causal inference in observational data and explained why Economics-degree attainment cannot be treated as an exogenous treatment without additional identification assumptions or research designs. 
-
+* Estimated Linear Probability and Probit models for college enrollment among 19–21-year-olds and compared predicted probabilities across model specification
