@@ -4,6 +4,8 @@ Estimated wage returns to Economics majors using OLS, interaction effects, and F
 
 Analysis of Economics Degree Wage Premium (IPUMS USA ACS 2024)**
 
+Extracted and cleaned microdata from the 2024 American Community Survey (ACS) via IPUMS USA, constructing an analytical sample of over 578,000 individuals.
+Conducted econometric analysis of wage returns to an Economics degree using OLS with robust standard errors, demographic controls, and interaction effects.
 
 * Constructed and analyzed a nationally representative sample of **578,507 individuals** from the 2024 American Community Survey (IPUMS USA), identifying **11,422 Economics degree holders (1.97% of the sample)**. 
 * Estimated wage-return models using OLS with robust standard errors; found Economics degree holders earned approximately **33% higher wages** than non-Economics majors in a bivariate specification, with the estimated premium declining to **24% after controlling for age, gender, and race**, suggesting the importance of observable demographic differences. 
